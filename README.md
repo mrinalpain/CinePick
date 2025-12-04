@@ -1,0 +1,2 @@
+# CinePick
+Movie suggestions
